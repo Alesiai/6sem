@@ -1,0 +1,3 @@
+﻿  Crypto_Lab09.cpp
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\Lab9\Crypto_Lab09\Crypto_Lab09.cpp(37,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Crypto_Lab09.vcxproj -> C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\Lab9\x64\Debug\Crypto_Lab09.exe

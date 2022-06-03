@@ -1,0 +1,75 @@
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\protect_inf_LR1\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\protect_inf_LR1\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\protect_inf_LR1\protect_inf_LR1\bin\Debug\protect_inf_LR1.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\protect_inf_LR1\protect_inf_LR1\obj\Debug\protect_inf_LR1.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\protect_inf_LR1\protect_inf_LR1\obj\Debug\protect_inf_LR1.Form1.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\protect_inf_LR1\protect_inf_LR1\obj\Debug\protect_inf_LR1.Properties.Resources.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\protect_inf_LR1\protect_inf_LR1\obj\Debug\protect_inf_LR1.csproj.GenerateResource.Cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\protect_inf_LR1\protect_inf_LR1\obj\Debug\protect_inf_LR1.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\protect_inf_LR1\protect_inf_LR1\obj\Debug\protect_inf_LR1.pdb
+C:\Users\Игорь\Desktop\protect_inf_LR1\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe.config
+C:\Users\Игорь\Desktop\protect_inf_LR1\protect_inf_LR1\obj\Debug\protect_inf_LR1.exe
+C:\Users\Игорь\Desktop\protect_inf_LR1\protect_inf_LR1\obj\Debug\protect_inf_LR1.pdb
+C:\Users\Игорь\Desktop\protect_inf_LR1\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe
+C:\Users\Игорь\Desktop\protect_inf_LR1\protect_inf_LR1\bin\Debug\protect_inf_LR1.pdb
+C:\Users\Игорь\Desktop\protect_inf_LR1\protect_inf_LR1\obj\Debug\protect_inf_LR1.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\protect_inf_LR1\protect_inf_LR1\obj\Debug\protect_inf_LR1.Form1.resources
+C:\Users\Игорь\Desktop\protect_inf_LR1\protect_inf_LR1\obj\Debug\protect_inf_LR1.Properties.Resources.resources
+C:\Users\Игорь\Desktop\protect_inf_LR1\protect_inf_LR1\obj\Debug\protect_inf_LR1.csproj.GenerateResource.Cache
+C:\Users\Игорь\Desktop\protect_inf_LR3\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe.config
+C:\Users\Игорь\Desktop\protect_inf_LR3\protect_inf_LR1\obj\Debug\protect_inf_LR1.exe
+C:\Users\Игорь\Desktop\protect_inf_LR3\protect_inf_LR1\obj\Debug\protect_inf_LR1.pdb
+C:\Users\Игорь\Desktop\protect_inf_LR3\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe
+C:\Users\Игорь\Desktop\protect_inf_LR3\protect_inf_LR1\bin\Debug\protect_inf_LR1.pdb
+C:\Users\Игорь\Desktop\protect_inf_LR3\protect_inf_LR1\obj\Debug\protect_inf_LR1.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\protect_inf_LR3\protect_inf_LR1\obj\Debug\protect_inf_LR1.Form1.resources
+C:\Users\Игорь\Desktop\protect_inf_LR3\protect_inf_LR1\obj\Debug\protect_inf_LR1.Properties.Resources.resources
+C:\Users\Игорь\Desktop\protect_inf_LR3\protect_inf_LR1\obj\Debug\protect_inf_LR1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\protect_inf_LR3\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe.config
+C:\Users\User\Desktop\protect_inf_LR3\protect_inf_LR1\obj\Debug\protect_inf_LR1.exe
+C:\Users\User\Desktop\protect_inf_LR3\protect_inf_LR1\obj\Debug\protect_inf_LR1.pdb
+C:\Users\User\Desktop\protect_inf_LR3\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe
+C:\Users\User\Desktop\protect_inf_LR3\protect_inf_LR1\bin\Debug\protect_inf_LR1.pdb
+C:\Users\User\Desktop\protect_inf_LR3\protect_inf_LR1\obj\Debug\protect_inf_LR1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\protect_inf_LR3\protect_inf_LR1\obj\Debug\protect_inf_LR1.Form1.resources
+C:\Users\User\Desktop\protect_inf_LR3\protect_inf_LR1\obj\Debug\protect_inf_LR1.Properties.Resources.resources
+C:\Users\User\Desktop\protect_inf_LR3\protect_inf_LR1\obj\Debug\protect_inf_LR1.csproj.GenerateResource.Cache
+C:\Users\Игорь\Desktop\RSA\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe.config
+C:\Users\Игорь\Desktop\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.exe
+C:\Users\Игорь\Desktop\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.pdb
+C:\Users\Игорь\Desktop\RSA\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe
+C:\Users\Игорь\Desktop\RSA\protect_inf_LR1\bin\Debug\protect_inf_LR1.pdb
+C:\Users\Игорь\Desktop\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.Form1.resources
+C:\Users\Игорь\Desktop\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.Properties.Resources.resources
+C:\Users\Игорь\Desktop\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.csproj.GenerateResource.Cache
+D:\Учеба\ЗИНИС\2 сем\Lab8\RSA\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe.config
+D:\Учеба\ЗИНИС\2 сем\Lab8\RSA\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe
+D:\Учеба\ЗИНИС\2 сем\Lab8\RSA\protect_inf_LR1\bin\Debug\protect_inf_LR1.pdb
+D:\Учеба\ЗИНИС\2 сем\Lab8\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.csprojAssemblyReference.cache
+D:\Учеба\ЗИНИС\2 сем\Lab8\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.Form1.resources
+D:\Учеба\ЗИНИС\2 сем\Lab8\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.Properties.Resources.resources
+D:\Учеба\ЗИНИС\2 сем\Lab8\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.csproj.GenerateResource.cache
+D:\Учеба\ЗИНИС\2 сем\Lab8\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.exe
+D:\Учеба\ЗИНИС\2 сем\Lab8\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.pdb
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\Lab8\RSA\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe.config
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\Lab8\RSA\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\Lab8\RSA\protect_inf_LR1\bin\Debug\protect_inf_LR1.pdb
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\Lab8\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.csprojAssemblyReference.cache
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\Lab8\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.Form1.resources
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\Lab8\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.Properties.Resources.resources
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\Lab8\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.csproj.GenerateResource.cache
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\Lab8\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.csproj.CoreCompileInputs.cache
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\Lab8\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.exe
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\Lab8\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.pdb
+D:\6 сем\ЗИиНИС\Lab8\RSA\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe.config
+D:\6 сем\ЗИиНИС\Lab8\RSA\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe
+D:\6 сем\ЗИиНИС\Lab8\RSA\protect_inf_LR1\bin\Debug\protect_inf_LR1.pdb
+D:\6 сем\ЗИиНИС\Lab8\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.csproj.AssemblyReference.cache
+D:\6 сем\ЗИиНИС\Lab8\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.csproj.SuggestedBindingRedirects.cache
+D:\6 сем\ЗИиНИС\Lab8\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.Form1.resources
+D:\6 сем\ЗИиНИС\Lab8\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.Properties.Resources.resources
+D:\6 сем\ЗИиНИС\Lab8\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.csproj.GenerateResource.cache
+D:\6 сем\ЗИиНИС\Lab8\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.csproj.CoreCompileInputs.cache
+D:\6 сем\ЗИиНИС\Lab8\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.exe
+D:\6 сем\ЗИиНИС\Lab8\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.pdb

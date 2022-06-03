@@ -1,0 +1,92 @@
+D:\Учёба\3 curs\2 сем\Криптография\lab10\Lab10\Shnorr\obj\Debug\Shnorr.csprojAssemblyReference.cache
+D:\Учёба\3 curs\2 сем\Криптография\lab10\Lab10\Shnorr\obj\Debug\MainWindow.g.cs
+D:\Учёба\3 curs\2 сем\Криптография\lab10\Lab10\Shnorr\obj\Debug\App.g.cs
+D:\Учёба\3 curs\2 сем\Криптография\lab10\Lab10\Shnorr\obj\Debug\Shnorr_MarkupCompile.cache
+D:\Учёба\3 curs\2 сем\Криптография\lab10\Lab10\Shnorr\obj\Debug\Shnorr_MarkupCompile.lref
+D:\Учёба\3 curs\2 сем\Криптография\lab10\Lab10\Shnorr\obj\Debug\MainWindow.baml
+D:\Учёба\3 curs\2 сем\Криптография\lab10\Lab10\Shnorr\obj\Debug\Shnorr.g.resources
+D:\Учёба\3 curs\2 сем\Криптография\lab10\Lab10\Shnorr\obj\Debug\Shnorr.Properties.Resources.resources
+D:\Учёба\3 curs\2 сем\Криптография\lab10\Lab10\Shnorr\obj\Debug\Shnorr.csproj.GenerateResource.cache
+D:\Учёба\3 curs\2 сем\Криптография\lab10\Lab10\Shnorr\obj\Debug\Shnorr.csproj.CoreCompileInputs.cache
+D:\Учёба\3 curs\2 сем\Криптография\lab10\Lab10\Shnorr\obj\Debug\Shnorr.pdb
+D:\Учёба\3 curs\2 сем\Криптография\lab10\Lab10\Shnorr\bin\Debug\Shnorr.exe.config
+D:\Учёба\3 curs\2 сем\Криптография\lab10\Lab10\Shnorr\bin\Debug\Shnorr.exe
+D:\Учёба\3 curs\2 сем\Криптография\lab10\Lab10\Shnorr\bin\Debug\Shnorr.pdb
+D:\Учёба\3 curs\2 сем\Криптография\lab10\Lab10\Shnorr\obj\Debug\Shnorr.exe
+D:\Учёба\3 curs\2 сем\Криптография\lab10_ЭЦП\Lab10\Shnorr\bin\Debug\Shnorr.exe.config
+D:\Учёба\3 curs\2 сем\Криптография\lab10_ЭЦП\Lab10\Shnorr\bin\Debug\Shnorr.exe
+D:\Учёба\3 curs\2 сем\Криптография\lab10_ЭЦП\Lab10\Shnorr\bin\Debug\Shnorr.pdb
+D:\Учёба\3 curs\2 сем\Криптография\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\Shnorr.csprojAssemblyReference.cache
+D:\Учёба\3 curs\2 сем\Криптография\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\MainWindow.g.cs
+D:\Учёба\3 curs\2 сем\Криптография\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\App.g.cs
+D:\Учёба\3 curs\2 сем\Криптография\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\Shnorr_MarkupCompile.cache
+D:\Учёба\3 curs\2 сем\Криптография\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\Shnorr_MarkupCompile.lref
+D:\Учёба\3 curs\2 сем\Криптография\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\MainWindow.baml
+D:\Учёба\3 curs\2 сем\Криптография\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\Shnorr.g.resources
+D:\Учёба\3 curs\2 сем\Криптография\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\Shnorr.Properties.Resources.resources
+D:\Учёба\3 curs\2 сем\Криптография\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\Shnorr.csproj.GenerateResource.cache
+D:\Учёба\3 curs\2 сем\Криптография\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\Shnorr.csproj.CoreCompileInputs.cache
+D:\Учёба\3 curs\2 сем\Криптография\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\Shnorr.exe
+D:\Учёба\3 curs\2 сем\Криптография\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\Shnorr.pdb
+D:\3k2sem\ZI\Lab10\lab10_ЭЦП\Lab10\Shnorr\bin\Debug\Shnorr.exe.config
+D:\3k2sem\ZI\Lab10\lab10_ЭЦП\Lab10\Shnorr\bin\Debug\Shnorr.exe
+D:\3k2sem\ZI\Lab10\lab10_ЭЦП\Lab10\Shnorr\bin\Debug\Shnorr.pdb
+D:\3k2sem\ZI\Lab10\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\Shnorr.csprojAssemblyReference.cache
+D:\3k2sem\ZI\Lab10\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\MainWindow.g.cs
+D:\3k2sem\ZI\Lab10\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\App.g.cs
+D:\3k2sem\ZI\Lab10\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\Shnorr_MarkupCompile.cache
+D:\3k2sem\ZI\Lab10\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\Shnorr_MarkupCompile.lref
+D:\3k2sem\ZI\Lab10\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\MainWindow.baml
+D:\3k2sem\ZI\Lab10\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\Shnorr.g.resources
+D:\3k2sem\ZI\Lab10\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\Shnorr.Properties.Resources.resources
+D:\3k2sem\ZI\Lab10\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\Shnorr.csproj.GenerateResource.cache
+D:\3k2sem\ZI\Lab10\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\Shnorr.csproj.CoreCompileInputs.cache
+D:\3k2sem\ZI\Lab10\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\Shnorr.exe
+D:\3k2sem\ZI\Lab10\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\Shnorr.pdb
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\lab10_ЭЦП\Lab10\Shnorr\bin\Debug\Shnorr.exe.config
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\lab10_ЭЦП\Lab10\Shnorr\bin\Debug\Shnorr.exe
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\lab10_ЭЦП\Lab10\Shnorr\bin\Debug\Shnorr.pdb
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\Shnorr.csprojAssemblyReference.cache
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\MainWindow.g.cs
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\App.g.cs
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\Shnorr_MarkupCompile.cache
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\Shnorr_MarkupCompile.lref
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\MainWindow.baml
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\Shnorr.g.resources
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\Shnorr.Properties.Resources.resources
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\Shnorr.csproj.GenerateResource.cache
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\Shnorr.csproj.CoreCompileInputs.cache
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\Shnorr.exe
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\lab10_ЭЦП\Lab10\Shnorr\obj\Debug\Shnorr.pdb
+D:\ons\Miwoder\Protection-of-information-and-reliability-of-information-systems\lab10_ЭЦП2s\Lab10\Shnorr\bin\Debug\Shnorr.exe.config
+D:\ons\Miwoder\Protection-of-information-and-reliability-of-information-systems\lab10_ЭЦП2s\Lab10\Shnorr\bin\Debug\Shnorr.exe
+D:\ons\Miwoder\Protection-of-information-and-reliability-of-information-systems\lab10_ЭЦП2s\Lab10\Shnorr\bin\Debug\Shnorr.pdb
+D:\ons\Miwoder\Protection-of-information-and-reliability-of-information-systems\lab10_ЭЦП2s\Lab10\Shnorr\obj\Debug\Shnorr.csproj.AssemblyReference.cache
+D:\ons\Miwoder\Protection-of-information-and-reliability-of-information-systems\lab10_ЭЦП2s\Lab10\Shnorr\obj\Debug\Shnorr.csproj.SuggestedBindingRedirects.cache
+D:\ons\Miwoder\Protection-of-information-and-reliability-of-information-systems\lab10_ЭЦП2s\Lab10\Shnorr\obj\Debug\MainWindow.g.cs
+D:\ons\Miwoder\Protection-of-information-and-reliability-of-information-systems\lab10_ЭЦП2s\Lab10\Shnorr\obj\Debug\App.g.cs
+D:\ons\Miwoder\Protection-of-information-and-reliability-of-information-systems\lab10_ЭЦП2s\Lab10\Shnorr\obj\Debug\Shnorr_MarkupCompile.cache
+D:\ons\Miwoder\Protection-of-information-and-reliability-of-information-systems\lab10_ЭЦП2s\Lab10\Shnorr\obj\Debug\Shnorr_MarkupCompile.lref
+D:\ons\Miwoder\Protection-of-information-and-reliability-of-information-systems\lab10_ЭЦП2s\Lab10\Shnorr\obj\Debug\MainWindow.baml
+D:\ons\Miwoder\Protection-of-information-and-reliability-of-information-systems\lab10_ЭЦП2s\Lab10\Shnorr\obj\Debug\Shnorr.g.resources
+D:\ons\Miwoder\Protection-of-information-and-reliability-of-information-systems\lab10_ЭЦП2s\Lab10\Shnorr\obj\Debug\Shnorr.Properties.Resources.resources
+D:\ons\Miwoder\Protection-of-information-and-reliability-of-information-systems\lab10_ЭЦП2s\Lab10\Shnorr\obj\Debug\Shnorr.csproj.GenerateResource.cache
+D:\ons\Miwoder\Protection-of-information-and-reliability-of-information-systems\lab10_ЭЦП2s\Lab10\Shnorr\obj\Debug\Shnorr.csproj.CoreCompileInputs.cache
+D:\ons\Miwoder\Protection-of-information-and-reliability-of-information-systems\lab10_ЭЦП2s\Lab10\Shnorr\obj\Debug\Shnorr.exe
+D:\ons\Miwoder\Protection-of-information-and-reliability-of-information-systems\lab10_ЭЦП2s\Lab10\Shnorr\obj\Debug\Shnorr.pdb
+D:\6 сем\ЗИиНИС\Lab10\Lab10\Shnorr\bin\Debug\Shnorr.exe.config
+D:\6 сем\ЗИиНИС\Lab10\Lab10\Shnorr\bin\Debug\Shnorr.exe
+D:\6 сем\ЗИиНИС\Lab10\Lab10\Shnorr\bin\Debug\Shnorr.pdb
+D:\6 сем\ЗИиНИС\Lab10\Lab10\Shnorr\obj\Debug\Shnorr.csproj.AssemblyReference.cache
+D:\6 сем\ЗИиНИС\Lab10\Lab10\Shnorr\obj\Debug\Shnorr.csproj.SuggestedBindingRedirects.cache
+D:\6 сем\ЗИиНИС\Lab10\Lab10\Shnorr\obj\Debug\MainWindow.g.cs
+D:\6 сем\ЗИиНИС\Lab10\Lab10\Shnorr\obj\Debug\App.g.cs
+D:\6 сем\ЗИиНИС\Lab10\Lab10\Shnorr\obj\Debug\Shnorr_MarkupCompile.cache
+D:\6 сем\ЗИиНИС\Lab10\Lab10\Shnorr\obj\Debug\Shnorr_MarkupCompile.lref
+D:\6 сем\ЗИиНИС\Lab10\Lab10\Shnorr\obj\Debug\MainWindow.baml
+D:\6 сем\ЗИиНИС\Lab10\Lab10\Shnorr\obj\Debug\Shnorr.g.resources
+D:\6 сем\ЗИиНИС\Lab10\Lab10\Shnorr\obj\Debug\Shnorr.Properties.Resources.resources
+D:\6 сем\ЗИиНИС\Lab10\Lab10\Shnorr\obj\Debug\Shnorr.csproj.GenerateResource.cache
+D:\6 сем\ЗИиНИС\Lab10\Lab10\Shnorr\obj\Debug\Shnorr.csproj.CoreCompileInputs.cache
+D:\6 сем\ЗИиНИС\Lab10\Lab10\Shnorr\obj\Debug\Shnorr.exe
+D:\6 сем\ЗИиНИС\Lab10\Lab10\Shnorr\obj\Debug\Shnorr.pdb

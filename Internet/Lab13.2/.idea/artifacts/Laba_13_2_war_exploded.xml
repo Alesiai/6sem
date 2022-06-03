@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Laba 13.2:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Laba_13_2_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Laba 13.2/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Laba 13.2" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-net-3.8.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-httpclient-3.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-codec-1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-logging-1.0.4.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

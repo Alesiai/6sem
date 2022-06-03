@@ -1,0 +1,35 @@
+C:\Users\Admin\source\repos\Lab2Rukzak\Lab2Rukzak\bin\Debug\Lab2Rukzak.exe.config
+C:\Users\Admin\source\repos\Lab2Rukzak\Lab2Rukzak\bin\Debug\Lab2Rukzak.exe
+C:\Users\Admin\source\repos\Lab2Rukzak\Lab2Rukzak\bin\Debug\Lab2Rukzak.pdb
+C:\Users\Admin\source\repos\Lab2Rukzak\Lab2Rukzak\obj\Debug\Lab2Rukzak.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Lab2Rukzak\Lab2Rukzak\obj\Debug\Lab2Rukzak.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Lab2Rukzak\Lab2Rukzak\obj\Debug\Lab2Rukzak.exe
+C:\Users\Admin\source\repos\Lab2Rukzak\Lab2Rukzak\obj\Debug\Lab2Rukzak.pdb
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\L2\Lab2Rukzak\Lab2Rukzak\bin\Debug\Lab2Rukzak.exe.config
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\L2\Lab2Rukzak\Lab2Rukzak\bin\Debug\Lab2Rukzak.exe
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\L2\Lab2Rukzak\Lab2Rukzak\bin\Debug\Lab2Rukzak.pdb
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\L2\Lab2Rukzak\Lab2Rukzak\obj\Debug\Lab2Rukzak.csprojAssemblyReference.cache
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\L2\Lab2Rukzak\Lab2Rukzak\obj\Debug\Lab2Rukzak.csproj.CoreCompileInputs.cache
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\L2\Lab2Rukzak\Lab2Rukzak\obj\Debug\Lab2Rukzak.exe
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\L2\Lab2Rukzak\Lab2Rukzak\obj\Debug\Lab2Rukzak.pdb
+D:\Учеба\ЗИНИС\2 сем\Laboratornye\Лабораторные\L2\Lab2Rukzak\Lab2Rukzak\bin\Debug\Lab2Rukzak.exe.config
+D:\Учеба\ЗИНИС\2 сем\Laboratornye\Лабораторные\L2\Lab2Rukzak\Lab2Rukzak\bin\Debug\Lab2Rukzak.exe
+D:\Учеба\ЗИНИС\2 сем\Laboratornye\Лабораторные\L2\Lab2Rukzak\Lab2Rukzak\bin\Debug\Lab2Rukzak.pdb
+D:\Учеба\ЗИНИС\2 сем\Laboratornye\Лабораторные\L2\Lab2Rukzak\Lab2Rukzak\obj\Debug\Lab2Rukzak.csprojAssemblyReference.cache
+D:\Учеба\ЗИНИС\2 сем\Laboratornye\Лабораторные\L2\Lab2Rukzak\Lab2Rukzak\obj\Debug\Lab2Rukzak.exe
+D:\Учеба\ЗИНИС\2 сем\Laboratornye\Лабораторные\L2\Lab2Rukzak\Lab2Rukzak\obj\Debug\Lab2Rukzak.pdb
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\Lab7\Rukzak\Lab2Rukzak\bin\Debug\Lab2Rukzak.exe.config
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\Lab7\Rukzak\Lab2Rukzak\bin\Debug\Lab2Rukzak.exe
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\Lab7\Rukzak\Lab2Rukzak\bin\Debug\Lab2Rukzak.pdb
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\Lab7\Rukzak\Lab2Rukzak\obj\Debug\Lab2Rukzak.csprojAssemblyReference.cache
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\Lab7\Rukzak\Lab2Rukzak\obj\Debug\Lab2Rukzak.csproj.CoreCompileInputs.cache
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\Lab7\Rukzak\Lab2Rukzak\obj\Debug\Lab2Rukzak.exe
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\Lab7\Rukzak\Lab2Rukzak\obj\Debug\Lab2Rukzak.pdb
+D:\6 сем\ЗИиНИС\Lab7\Rukzak\Lab2Rukzak\bin\Debug\Lab2Rukzak.exe.config
+D:\6 сем\ЗИиНИС\Lab7\Rukzak\Lab2Rukzak\bin\Debug\Lab2Rukzak.exe
+D:\6 сем\ЗИиНИС\Lab7\Rukzak\Lab2Rukzak\bin\Debug\Lab2Rukzak.pdb
+D:\6 сем\ЗИиНИС\Lab7\Rukzak\Lab2Rukzak\obj\Debug\Lab2Rukzak.csproj.AssemblyReference.cache
+D:\6 сем\ЗИиНИС\Lab7\Rukzak\Lab2Rukzak\obj\Debug\Lab2Rukzak.csproj.SuggestedBindingRedirects.cache
+D:\6 сем\ЗИиНИС\Lab7\Rukzak\Lab2Rukzak\obj\Debug\Lab2Rukzak.csproj.CoreCompileInputs.cache
+D:\6 сем\ЗИиНИС\Lab7\Rukzak\Lab2Rukzak\obj\Debug\Lab2Rukzak.exe
+D:\6 сем\ЗИиНИС\Lab7\Rukzak\Lab2Rukzak\obj\Debug\Lab2Rukzak.pdb

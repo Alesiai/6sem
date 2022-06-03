@@ -1,0 +1,19 @@
+﻿<Window x:Class="EncryptedAssemblies.TestApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="MainWindow" Height="678.4" Width="714.815">
+    <Grid Background="WhiteSmoke">
+        <TextBox VerticalScrollBarVisibility="Auto" Name="TextFile" Background="White" HorizontalAlignment="Left" Margin="10,22,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="192" Width="480"/>
+        <Button Content="File" HorizontalAlignment="Left" Margin="545,22,0,0" VerticalAlignment="Top" Width="117" Height="40" Click="Button_Click"/>
+        <Label Content="Текст из файла" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top"/>
+        <Label Content="Ключ" HorizontalAlignment="Left" Margin="584,67,0,0" VerticalAlignment="Top"/>
+        <Label Content="Расшифрованное сообщение" HorizontalAlignment="Left" Margin="10,422,0,0" VerticalAlignment="Top"/>
+        <TextBox VerticalScrollBarVisibility="Auto" Name="Decrypt"  Background="White" HorizontalAlignment="Left" Margin="10,448,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="192" Width="480"/>
+        <Button Click="Encrypt_Trismus" Content="Encrypt" HorizontalAlignment="Left" Margin="545,134,0,0" VerticalAlignment="Top" Width="117" Height="40"/>
+        <Button Click="Decrypt_Trismus" Content="Decrypt" HorizontalAlignment="Left" Margin="545,189,0,0" VerticalAlignment="Top" Width="117" Height="40"/>
+        <TextBox VerticalScrollBarVisibility="Auto" Name="Key" HorizontalAlignment="Left" Height="23" Margin="508,93,0,0" TextWrapping="Wrap" Text="Alesia" VerticalAlignment="Top" Width="191"/>
+        <Label Content="Зашифрованное сообщение" HorizontalAlignment="Left" Margin="10,208,0,0" VerticalAlignment="Top" />
+        <TextBox VerticalScrollBarVisibility="Auto" x:Name="Encrypt"  Background="White" HorizontalAlignment="Left" Margin="10,234,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="192" Width="480"/>
+        <Button Click="Clear_ALL" Content="Clear ALL" HorizontalAlignment="Left" Margin="545,599,0,0" VerticalAlignment="Top" Width="117" Height="40"/>
+    </Grid>
+</Window>

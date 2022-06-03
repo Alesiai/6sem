@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Laba 11:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Laba_11_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Laba 11" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Laba 11/web/Web" />
+    </root>
+  </artifact>
+</component>

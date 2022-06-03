@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "badd8a20-5cdb-42c7-9a3e-d5d65b5404e7": {
+      "ProjectGuid": "badd8a20-5cdb-42c7-9a3e-d5d65b5404e7",
+      "DisplayName": "EncryptedAssemblies.Starter",
+      "ColorIndex": 0
+    },
+    "d1bbacbf-3e84-4cff-bf7a-940e4d29342f": {
+      "ProjectGuid": "d1bbacbf-3e84-4cff-bf7a-940e4d29342f",
+      "DisplayName": "EncryptedAssemblies.TestApplication",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

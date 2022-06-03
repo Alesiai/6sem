@@ -1,0 +1,26 @@
+<project name="LB-18" default="compile">
+    <target name="init">
+        <echo message="Building LB-18" />
+    </target>
+
+    <target name="create" depends="init">
+        <delete dir="C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\AS_ydstwy\" />
+        <mkdir dir="C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\AS_ydstwy\" />
+        <mkdir dir="C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\AS_ydstwy\WEB-INF" />
+        <mkdir dir="C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\AS_ydstwy\WEB-INF\classes" />
+        <mkdir dir="C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\AS_ydstwy\WEB-INF\lib" />
+    </target>
+
+    <target name="copy" depends="create">
+        <copy file="C:\java\LB-20\web\WEB-INF\web.xml" todir="C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\AS_ydstwy\WEB-INF" />
+        <copy todir="C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\AS_ydstwy">
+            <fileset dir="C:\java\LB-20\web" includes="*.jsp" />
+        </copy>
+        <copy file="C:\Program Files\Apache Software Foundation\Tomcat 9.0\lib\ojdbc8.jar" todir="C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\AS_ydstwy\WEB-INF\lib" />
+    </target>
+
+    <target name="compile" depends="copy">
+        <echo message="compiling classes" />
+        <javac srcdir="C:\java\LB-20\src" destdir="C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\AS_ydstwy\WEB-INF\classes" classpath="C:\Program Files\Apache Software Foundation\Tomcat 9.0\lib\servlet-api.jar;C:\Program Files\Apache Software Foundation\Tomcat 9.0\lib\ojdbc8.jar" includeAntRuntime="false" />
+    </target>
+</project>

@@ -1,0 +1,8 @@
+﻿  Crypto_Lab09.cpp
+D:\6 сем\ЗИиНИС\Lab9\Crypto_Lab09\Crypto_Lab09.cpp(37,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  127 of 132 functions (96.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Crypto_Lab09.vcxproj -> D:\6 сем\ЗИиНИС\Lab9\x64\Release\Crypto_Lab09.exe

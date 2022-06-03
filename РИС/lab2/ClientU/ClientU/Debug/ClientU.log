@@ -1,0 +1,8 @@
+﻿  ClientU.cpp
+c:\users\bestb\onedrive\рабочий стол\university\1рис\lab2\clientu\clientu\clientu.cpp(186): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note:  см. объявление "localtime"
+c:\users\bestb\onedrive\рабочий стол\university\1рис\lab2\clientu\clientu\clientu.cpp(195): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note:  см. объявление "strcat"
+c:\users\bestb\onedrive\рабочий стол\university\1рис\lab2\clientu\clientu\clientu.cpp(197): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(86): note:  см. объявление "strcat"
+  ClientU.vcxproj -> C:\Users\bestb\OneDrive\Рабочий стол\University\1РИС\lab2\ClientU\Debug\ClientU.exe

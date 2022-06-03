@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<project name="WebApp" default="compile">
+    <target name="path">
+        <property name="name_of_dir" value="TestWebApp1"></property>
+    </target>
+    <target name="compile" depends="path">
+        <echo>Make directory in Tomcat</echo>
+        <mkdir dir="D:\Tomcat 9\webapps\${name_of_dir}"></mkdir>
+
+        <echo>Copy file to Tomcat directory</echo>
+        <copy todir="D:\Tomcat 9\webapps\${name_of_dir}">
+            <fileset dir="out\artifacts\Laba_11_war_exploded"></fileset>
+        </copy>
+    </target>
+</project>

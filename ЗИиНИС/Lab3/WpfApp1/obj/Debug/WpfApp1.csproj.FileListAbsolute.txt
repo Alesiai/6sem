@@ -1,0 +1,62 @@
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\2lab\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\2lab\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\2lab\WpfApp1\obj\Debug\App.g.cs
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\2lab\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\2lab\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\2lab\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\2lab\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\2lab\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\2lab\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\2lab\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\2lab\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\2lab\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\2lab\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\2lab\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\2lab\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\3lab\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\3lab\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\3lab\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\3lab\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\3lab\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\3lab\WpfApp1\obj\Debug\App.g.cs
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\3lab\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\3lab\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\3lab\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\3lab\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\3lab\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\3lab\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\3lab\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\3lab\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\bestb\OneDrive\Рабочий стол\University\1ЗИНИС\3lab\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Miwoder\Protection-of-information-and-reliability-of-information-systems\3lab2s\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Miwoder\Protection-of-information-and-reliability-of-information-systems\3lab2s\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Miwoder\Protection-of-information-and-reliability-of-information-systems\3lab2s\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Miwoder\Protection-of-information-and-reliability-of-information-systems\3lab2s\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Miwoder\Protection-of-information-and-reliability-of-information-systems\3lab2s\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+D:\Miwoder\Protection-of-information-and-reliability-of-information-systems\3lab2s\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Miwoder\Protection-of-information-and-reliability-of-information-systems\3lab2s\WpfApp1\obj\Debug\App.g.cs
+D:\Miwoder\Protection-of-information-and-reliability-of-information-systems\3lab2s\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Miwoder\Protection-of-information-and-reliability-of-information-systems\3lab2s\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Miwoder\Protection-of-information-and-reliability-of-information-systems\3lab2s\WpfApp1\obj\Debug\MainWindow.baml
+D:\Miwoder\Protection-of-information-and-reliability-of-information-systems\3lab2s\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Miwoder\Protection-of-information-and-reliability-of-information-systems\3lab2s\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Miwoder\Protection-of-information-and-reliability-of-information-systems\3lab2s\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Miwoder\Protection-of-information-and-reliability-of-information-systems\3lab2s\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Miwoder\Protection-of-information-and-reliability-of-information-systems\3lab2s\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Miwoder\Protection-of-information-and-reliability-of-information-systems\3lab2s\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\6 сем\ЗИиНИС\Lab3\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\6 сем\ЗИиНИС\Lab3\WpfApp1\bin\Debug\WpfApp1.exe
+D:\6 сем\ЗИиНИС\Lab3\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\6 сем\ЗИиНИС\Lab3\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\6 сем\ЗИиНИС\Lab3\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+D:\6 сем\ЗИиНИС\Lab3\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\6 сем\ЗИиНИС\Lab3\WpfApp1\obj\Debug\App.g.cs
+D:\6 сем\ЗИиНИС\Lab3\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\6 сем\ЗИиНИС\Lab3\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\6 сем\ЗИиНИС\Lab3\WpfApp1\obj\Debug\MainWindow.baml
+D:\6 сем\ЗИиНИС\Lab3\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\6 сем\ЗИиНИС\Lab3\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\6 сем\ЗИиНИС\Lab3\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\6 сем\ЗИиНИС\Lab3\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\6 сем\ЗИиНИС\Lab3\WpfApp1\obj\Debug\WpfApp1.exe
+D:\6 сем\ЗИиНИС\Lab3\WpfApp1\obj\Debug\WpfApp1.pdb

@@ -1,0 +1,20 @@
+C:\Users\Admin\source\repos\Lab2EL_GAMAL\Lab2EL_GAMAL\bin\Debug\Lab2EL_GAMAL.exe.config
+C:\Users\Admin\source\repos\Lab2EL_GAMAL\Lab2EL_GAMAL\bin\Debug\Lab2EL_GAMAL.exe
+C:\Users\Admin\source\repos\Lab2EL_GAMAL\Lab2EL_GAMAL\bin\Debug\Lab2EL_GAMAL.pdb
+C:\Users\Admin\source\repos\Lab2EL_GAMAL\Lab2EL_GAMAL\obj\Debug\Lab2EL_GAMAL.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Lab2EL_GAMAL\Lab2EL_GAMAL\obj\Debug\Lab2EL_GAMAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Lab2EL_GAMAL\Lab2EL_GAMAL\obj\Debug\Lab2EL_GAMAL.exe
+C:\Users\Admin\source\repos\Lab2EL_GAMAL\Lab2EL_GAMAL\obj\Debug\Lab2EL_GAMAL.pdb
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\L2\Lab2EL_GAMAL\Lab2EL_GAMAL\bin\Debug\Lab2EL_GAMAL.exe.config
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\L2\Lab2EL_GAMAL\Lab2EL_GAMAL\bin\Debug\Lab2EL_GAMAL.exe
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\L2\Lab2EL_GAMAL\Lab2EL_GAMAL\bin\Debug\Lab2EL_GAMAL.pdb
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\L2\Lab2EL_GAMAL\Lab2EL_GAMAL\obj\Debug\Lab2EL_GAMAL.csprojAssemblyReference.cache
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\L2\Lab2EL_GAMAL\Lab2EL_GAMAL\obj\Debug\Lab2EL_GAMAL.csproj.CoreCompileInputs.cache
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\L2\Lab2EL_GAMAL\Lab2EL_GAMAL\obj\Debug\Lab2EL_GAMAL.exe
+D:\Документы\BSTU\ЗИ - Защита информации\Лабораторные\L2\Lab2EL_GAMAL\Lab2EL_GAMAL\obj\Debug\Lab2EL_GAMAL.pdb
+D:\Учеба\ЗИНИС\2 сем\Laboratornye\Лабораторные\L2\Lab2EL_GAMAL\Lab2EL_GAMAL\bin\Debug\Lab2EL_GAMAL.exe.config
+D:\Учеба\ЗИНИС\2 сем\Laboratornye\Лабораторные\L2\Lab2EL_GAMAL\Lab2EL_GAMAL\bin\Debug\Lab2EL_GAMAL.exe
+D:\Учеба\ЗИНИС\2 сем\Laboratornye\Лабораторные\L2\Lab2EL_GAMAL\Lab2EL_GAMAL\bin\Debug\Lab2EL_GAMAL.pdb
+D:\Учеба\ЗИНИС\2 сем\Laboratornye\Лабораторные\L2\Lab2EL_GAMAL\Lab2EL_GAMAL\obj\Debug\Lab2EL_GAMAL.csprojAssemblyReference.cache
+D:\Учеба\ЗИНИС\2 сем\Laboratornye\Лабораторные\L2\Lab2EL_GAMAL\Lab2EL_GAMAL\obj\Debug\Lab2EL_GAMAL.exe
+D:\Учеба\ЗИНИС\2 сем\Laboratornye\Лабораторные\L2\Lab2EL_GAMAL\Lab2EL_GAMAL\obj\Debug\Lab2EL_GAMAL.pdb
