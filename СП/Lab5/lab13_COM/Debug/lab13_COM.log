@@ -1,0 +1,25 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (lab13_COM.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  pch.cpp
+  CFactory.cpp
+D:\lab13\lab13_COM\HT.h(47,3): warning C4091: __declspec(dllexport): пропускается слева от "HT::HTHANDLE", когда ни одна переменная не объявлена
+D:\lab13\lab13_COM\HT.h(59,3): warning C4091: __declspec(dllexport): пропускается слева от "HT::Element", когда ни одна переменная не объявлена
+  COM.cpp
+D:\lab13\lab13_COM\HT.h(47,3): warning C4091: __declspec(dllexport): пропускается слева от "HT::HTHANDLE", когда ни одна переменная не объявлена
+D:\lab13\lab13_COM\HT.h(59,3): warning C4091: __declspec(dllexport): пропускается слева от "HT::Element", когда ни одна переменная не объявлена
+  dllmain.cpp
+D:\lab13\lab13_COM\HT.h(47,3): warning C4091: __declspec(dllexport): пропускается слева от "HT::HTHANDLE", когда ни одна переменная не объявлена
+D:\lab13\lab13_COM\HT.h(59,3): warning C4091: __declspec(dllexport): пропускается слева от "HT::Element", когда ни одна переменная не объявлена
+  HT.cpp
+D:\lab13\lab13_COM\HT.h(47,3): warning C4091: __declspec(dllexport): пропускается слева от "HT::HTHANDLE", когда ни одна переменная не объявлена
+D:\lab13\lab13_COM\HT.h(59,3): warning C4091: __declspec(dllexport): пропускается слева от "HT::Element", когда ни одна переменная не объявлена
+D:\lab13\lab13_COM\HT.cpp(444,21): warning C4018: <: несоответствие типов со знаком и без знака
+  INSTALL.cpp
+D:\lab13\lab13_COM\HT.h(47,3): warning C4091: __declspec(dllexport): пропускается слева от "HT::HTHANDLE", когда ни одна переменная не объявлена
+D:\lab13\lab13_COM\HT.h(59,3): warning C4091: __declspec(dllexport): пропускается слева от "HT::Element", когда ни одна переменная не объявлена
+  OS13.cpp
+D:\lab13\lab13_COM\HT.h(47,3): warning C4091: __declspec(dllexport): пропускается слева от "HT::HTHANDLE", когда ни одна переменная не объявлена
+D:\lab13\lab13_COM\HT.h(59,3): warning C4091: __declspec(dllexport): пропускается слева от "HT::Element", когда ни одна переменная не объявлена
+  Создание кода...
+D:\lab13\lab13_COM\HT.cpp(452): warning C4172: возвращение адреса локальной или временной переменной : mutexName
+     Создается библиотека D:\lab13\Debug\OS13_COM.lib и объект D:\lab13\Debug\OS13_COM.exp
+  lab13_COM.vcxproj -> D:\lab13\Debug\OS13_COM.dll

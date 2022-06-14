@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  CFactory.cpp
+  dllmain.cpp
+  INSTALL.cpp
+D:\HELP\Operating-Systems-6sem-main\OS12\OS12_COM\OS12_COM_DLL\INSTALL.cpp(161,27): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  INTERFACE.cpp
+  OS12.cpp
+  Создание кода...
+  OS12_COM_DLL.vcxproj -> D:\HELP\Operating-Systems-6sem-main\OS12\OS12_COM\x64\Debug\OS12_COM_DLL.dll

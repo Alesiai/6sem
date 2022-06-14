@@ -1,0 +1,6 @@
+﻿  OS13_CREATE.cpp
+OS13_CREATE.obj : error LNK2001: неразрешенный внешний символ "struct HTlib::HTHANDLE * __cdecl HTlib::Create(int,int,int,int,wchar_t const * const)" (?Create@HTlib@@YAPAUHTHANDLE@1@HHHHQB_W@Z).
+OS13_CREATE.obj : error LNK2001: неразрешенный внешний символ "int __cdecl HTlib::Close(struct HTlib::HTHANDLE *)" (?Close@HTlib@@YAHPAUHTHANDLE@1@@Z).
+OS13_CREATE.obj : error LNK2001: неразрешенный внешний символ "bool __cdecl HTlib::CloseCOM(void)" (?CloseCOM@HTlib@@YA_NXZ).
+OS13_CREATE.obj : error LNK2001: неразрешенный внешний символ "bool __cdecl HTlib::OpenCOM(void)" (?OpenCOM@HTlib@@YA_NXZ).
+D:\lab13\Release\OS13_CREATE.exe : fatal error LNK1120: неразрешенных внешних элементов: 4

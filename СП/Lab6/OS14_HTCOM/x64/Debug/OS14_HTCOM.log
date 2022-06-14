@@ -1,0 +1,13 @@
+﻿  ClassFactory.cpp
+D:\bstu-fit-6semester\os\lab5-ht-user-com-dll\OS14_HTCOM\ClassFactory.cpp(1,10): fatal error C1083: Не удается открыть файл предкомпилированный заголовок: x64\Debug\OS14_HTCOM.pch: No such file or directory,
+  ComponentHT.cpp
+D:\bstu-fit-6semester\os\lab5-ht-user-com-dll\OS14_HTCOM\ComponentHT.cpp(1,10): fatal error C1083: Не удается открыть файл предкомпилированный заголовок: x64\Debug\OS14_HTCOM.pch: No such file or directory,
+  dllmain.cpp
+D:\bstu-fit-6semester\os\lab5-ht-user-com-dll\OS14_HTCOM\dllmain.cpp(2,10): fatal error C1083: Не удается открыть файл предкомпилированный заголовок: x64\Debug\OS14_HTCOM.pch: No such file or directory,
+  ExportFunctions.cpp
+D:\bstu-fit-6semester\os\lab5-ht-user-com-dll\OS14_HTCOM\ExportFunctions.cpp(1,10): fatal error C1083: Не удается открыть файл предкомпилированный заголовок: x64\Debug\OS14_HTCOM.pch: No such file or directory,
+  pch.cpp
+D:\bstu-fit-6semester\os\lab5-ht-user-com-dll\OS14_HTCOM\pch.cpp(3,10): fatal error C1083: Не удается открыть файл предкомпилированный заголовок: x64\Debug\OS14_HTCOM.pch: No such file or directory,
+  Registry.cpp
+D:\bstu-fit-6semester\os\lab5-ht-user-com-dll\OS14_HTCOM\Registry.cpp(1,10): fatal error C1083: Не удается открыть файл предкомпилированный заголовок: x64\Debug\OS14_HTCOM.pch: No such file or directory,
+  Создание кода...

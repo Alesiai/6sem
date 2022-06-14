@@ -1,0 +1,3 @@
+﻿  OS_0404.cpp
+D:\lab13\OS_0404\OS_0404.cpp(37,60): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  OS_0404.vcxproj -> D:\lab13\x64\Debug\OS_0404.exe

@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  OS12_COM_LIB.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(693,5): error MSB6006: "CL.exe" завершилась с кодом 2.
+D:\HELP\Operating-Systems-6sem-main\OS12\OS12_COM\OS12_COM_LIB\OS12_COM_LIB.cpp(3,10): fatal error C1083: Не удается открыть файл включение: INTERFACE.h: No such file or directory,

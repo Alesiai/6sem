@@ -1,0 +1,27 @@
+﻿  pch.cpp
+  CFactory.cpp
+D:\lab13\lab13_COM\HT.h(47,3): warning C4091: __declspec(dllexport): пропускается слева от "HT::HTHANDLE", когда ни одна переменная не объявлена
+D:\lab13\lab13_COM\HT.h(59,3): warning C4091: __declspec(dllexport): пропускается слева от "HT::Element", когда ни одна переменная не объявлена
+  COM.cpp
+D:\lab13\lab13_COM\HT.h(47,3): warning C4091: __declspec(dllexport): пропускается слева от "HT::HTHANDLE", когда ни одна переменная не объявлена
+D:\lab13\lab13_COM\HT.h(59,3): warning C4091: __declspec(dllexport): пропускается слева от "HT::Element", когда ни одна переменная не объявлена
+  dllmain.cpp
+D:\lab13\lab13_COM\HT.h(47,3): warning C4091: __declspec(dllexport): пропускается слева от "HT::HTHANDLE", когда ни одна переменная не объявлена
+D:\lab13\lab13_COM\HT.h(59,3): warning C4091: __declspec(dllexport): пропускается слева от "HT::Element", когда ни одна переменная не объявлена
+  HT.cpp
+D:\lab13\lab13_COM\HT.h(47,3): warning C4091: __declspec(dllexport): пропускается слева от "HT::HTHANDLE", когда ни одна переменная не объявлена
+D:\lab13\lab13_COM\HT.h(59,3): warning C4091: __declspec(dllexport): пропускается слева от "HT::Element", когда ни одна переменная не объявлена
+D:\lab13\lab13_COM\HT.cpp(463,94): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\lab13\lab13_COM\HT.cpp(467,110): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\lab13\lab13_COM\HT.cpp(474,110): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  INSTALL.cpp
+D:\lab13\lab13_COM\HT.h(47,3): warning C4091: __declspec(dllexport): пропускается слева от "HT::HTHANDLE", когда ни одна переменная не объявлена
+D:\lab13\lab13_COM\HT.h(59,3): warning C4091: __declspec(dllexport): пропускается слева от "HT::Element", когда ни одна переменная не объявлена
+D:\lab13\lab13_COM\INSTALL.cpp(162,27): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  OS13.cpp
+D:\lab13\lab13_COM\HT.h(47,3): warning C4091: __declspec(dllexport): пропускается слева от "HT::HTHANDLE", когда ни одна переменная не объявлена
+D:\lab13\lab13_COM\HT.h(59,3): warning C4091: __declspec(dllexport): пропускается слева от "HT::Element", когда ни одна переменная не объявлена
+  Создание кода...
+D:\lab13\lab13_COM\HT.cpp(452): warning C4172: возвращение адреса локальной или временной переменной : mutexName
+     Создается библиотека D:\lab13\x64\Debug\OS13_COM.lib и объект D:\lab13\x64\Debug\OS13_COM.exp
+  lab13_COM.vcxproj -> D:\lab13\x64\Debug\OS13_COM.dll

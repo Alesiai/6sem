@@ -1,0 +1,6 @@
+﻿  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+D:\lab13\OS13_COMlib\HTlib.cpp(253): warning C4172: возвращение адреса локальной или временной переменной : result
+  All 123 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  OS_0404.vcxproj -> D:\lab13\x64\Release\OS_0404.exe

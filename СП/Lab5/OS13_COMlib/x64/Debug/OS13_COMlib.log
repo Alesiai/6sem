@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  HTlib.cpp
+D:\lab13\OS13_COMlib\HTlib.cpp(253): warning C4172: возвращение адреса локальной или временной переменной : result
+  OS13_COMlib.vcxproj -> D:\lab13\x64\Debug\OS13_COMlib.lib

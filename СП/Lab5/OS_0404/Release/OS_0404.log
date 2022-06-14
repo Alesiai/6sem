@@ -1,0 +1,11 @@
+﻿  OS_0404.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1087,5): error MSB6006: "link.exe" завершилась с кодом 1120.
+OS_0404.obj : error LNK2001: неразрешенный внешний символ "int __cdecl HTlib::Update(struct HTlib::HTHANDLE *,struct HTlib::Element *,void *,int)" (?Update@HTlib@@YAHPAUHTHANDLE@1@PAUElement@1@PAXH@Z).
+OS_0404.obj : error LNK2001: неразрешенный внешний символ "public: __thiscall HTlib::Element::Element(void const *,int)" (??0Element@HTlib@@QAE@PBXH@Z).
+OS_0404.obj : error LNK2001: неразрешенный внешний символ "struct HTlib::HTHANDLE * __cdecl HTlib::Open(wchar_t const * const,bool)" (?Open@HTlib@@YAPAUHTHANDLE@1@QB_W_N@Z).
+OS_0404.obj : error LNK2001: неразрешенный внешний символ "char * __cdecl HTlib::GetLastErrorHt(struct HTlib::HTHANDLE *)" (?GetLastErrorHt@HTlib@@YAPADPAUHTHANDLE@1@@Z).
+OS_0404.obj : error LNK2001: неразрешенный внешний символ "int __cdecl HTlib::Print(char *,int,char *,int)" (?Print@HTlib@@YAHPADH0H@Z).
+OS_0404.obj : error LNK2001: неразрешенный внешний символ "struct HTlib::Element * __cdecl HTlib::Get(struct HTlib::HTHANDLE *,struct HTlib::Element *)" (?Get@HTlib@@YAPAUElement@1@PAUHTHANDLE@1@PAU21@@Z).
+OS_0404.obj : error LNK2001: неразрешенный внешний символ "bool __cdecl HTlib::CloseCOM(void)" (?CloseCOM@HTlib@@YA_NXZ).
+OS_0404.obj : error LNK2001: неразрешенный внешний символ "bool __cdecl HTlib::OpenCOM(void)" (?OpenCOM@HTlib@@YA_NXZ).
+D:\lab13\Release\OS_0404.exe : fatal error LNK1120: неразрешенных внешних элементов: 8

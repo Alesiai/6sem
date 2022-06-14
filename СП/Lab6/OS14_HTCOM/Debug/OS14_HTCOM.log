@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  ClassFactory.cpp
+  ComponentHT.cpp
+  dllmain.cpp
+  ExportFunctions.cpp
+  Registry.cpp
+  Создание кода...
+     Создается библиотека D:\Lab6\Debug\OS14_HTCOM.lib и объект D:\Lab6\Debug\OS14_HTCOM.exp
+  OS14_HTCOM.vcxproj -> D:\Lab6\Debug\OS14_HTCOM.dll
